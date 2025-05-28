@@ -8,12 +8,6 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/2Fick/count.svg?"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJyaXYyMmo4N2p4MWx4YXdydDJmNTMxMzNyZGV2cDA1MjI1anFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M4trH1uta8OPu/giphy.gif"  />
 
 ###
@@ -67,5 +61,13 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
   In just two days we shipped a GenAI multimodal app and fine-tuned a mini-LLM, then somehow snagged first place—proof that caffeine + teamwork = magic.
 
 > _More hackathons to come… stay tuned!_  
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/youcef.amr">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=youcef.amr&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
