@@ -65,8 +65,20 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/youcef.amr">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=youcef.amr&count=1" alt="Spotify recently played"  />
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <picture>
+      <!-- dark mode -->
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=youcef.amr&cover_image=true&theme=default&show_offline=false&background_color=050505&interchange=false&bar_color=53b14f&bar_color_cover=true"
+      />
+      <!-- light mdoe-->
+      <img
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=youcef.amr&cover_image=true&theme=default&show_offline=false&background_color=fcfcfc&interchange=false&bar_color=53b14f&bar_color_cover=true"
+        alt="Spotify GitHub Profile"
+        width = "200"
+      />
+    </picture>
   </a>
 </div>
 
