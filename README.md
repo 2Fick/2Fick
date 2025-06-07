@@ -3,6 +3,8 @@
 Tech puzzles are my thing, from teaching machines new tricks and untangling network mysteries to late-night debugging. I fuse ML, algorithms, networks and OS theory with hands-on projects, competitions and caffeine-powered coding sprees.
 </p>
 
+---
+
 <details open> 
   <summary><h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3YXh5N2wzbnhrNzdxbThzejcxOWtnaXZiZWJxZzJlcGxxdjhjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBCVggEb9DzSHTUI19/giphy.gif" width ="50"> My Top Open Source Projects</h2></summary>
   
@@ -23,7 +25,8 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 
 <br>
 
-###
+
+---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmRhZDdvajF6MzBleXFtbTRiYjZvMDU0NTY4NGQydThqOTR2ZHprNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jZN2tpC7XZUjVBs0SU/giphy.gif" width ="25"> Hackathon Done
 
@@ -38,7 +41,7 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 
 <br>
 
-###
+---
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB0dXpoczZ2bzE0bjIydGdsbmk1c2txcHZwMHAxaXk0YndhM2ppayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width ="50"> **Skills**
 
@@ -103,7 +106,7 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 
 <br>
 
-
+---
 
 
 ## Let's Connect!
@@ -117,8 +120,6 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
   </a>
 </div>
 
-
-###
 
 <br clear="both">
 
