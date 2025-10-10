@@ -33,7 +33,7 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 - **Optiver Colosseum Hackathon** – 29 April 2025 @ ETH Zurich  
   Built a live-trading Python bot on Optiver’s simulated exchange—no finance background needed, just good code (and maybe a bit of luck).
 
-- **[DataLive](https://github.com/rav-lad/DataLiveTest)** -🏆 **LauzHack & EPFL AI Team 48h Sprint**  – 19–20 April 2025 @ EPFL
+- **[DataLive](https://github.com/Ylanv/DataLive)** -🏆 **LauzHack & EPFL AI Team 48h Sprint**  – 19–20 April 2025 @ EPFL
 
   In just two days we shipped a GenAI multimodal app and fine-tuned a mini-LLM, then somehow snagged first place—proof that caffeine + teamwork = magic.
 
