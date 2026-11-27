@@ -12,13 +12,13 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 
   <p align="left">
     <a href="https://github.com/PlateSwipe/PlateSwipe">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlateSwipe&repo=PlateSwipe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PlateSwipe">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=PlateSwipe&repo=PlateSwipe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PlateSwipe">
     </a>
     <a href="https://github.com/Ylanv/DataLive">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ylanv&repo=DataLive&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DataLive">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ylanv&repo=DataLive&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DataLive">
     </a>
     <a href="https://github.com/2Fick/Aquarium">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=2Fick&repo=Aquarium&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Aquarium">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=2Fick&repo=Aquarium&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Aquarium">
     </a>
   </p>
 </details>
@@ -30,12 +30,20 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmRhZDdvajF6MzBleXFtbTRiYjZvMDU0NTY4NGQydThqOTR2ZHprNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jZN2tpC7XZUjVBs0SU/giphy.gif" width ="25"> Hackathon Done
 
+- **AXAlotl** - **LauzHack 2026, AXA Challenge** – November 2026 @ EPFL
+
+  Give it a company's name and address, and it writes an insurance risk report in under a minute. I benchmarked 9 vision models over 144 calls to pick one, so a report costs less than 4 cents.
+
+- **Leaf for Life** - **Hack-Nation 7, World Bank Challenge** – October 2026
+
+  An app that tells a farmer what is wrong with their cassava plant from a single photo, even in airplane mode. A small fine-tuned model runs right on the phone and gets about 9 photos out of 10 right.
+
 - **Optiver Colosseum Hackathon** – 29 April 2025 @ ETH Zurich  
-  Built a live-trading Python bot on Optiver’s simulated exchange—no finance background needed, just good code (and maybe a bit of luck).
+  Built a live-trading Python bot on Optiver’s simulated exchange: no finance background needed, just good code (and maybe a bit of luck).
 
 - **[DataLive](https://github.com/Ylanv/DataLive)** -🏆 **LauzHack & EPFL AI Team 48h Sprint**  – 19–20 April 2025 @ EPFL
 
-  In just two days we shipped a GenAI multimodal app and fine-tuned a mini-LLM, then somehow snagged first place—proof that caffeine + teamwork = magic.
+  In just two days we shipped a GenAI multimodal app and fine-tuned a mini-LLM, then somehow snagged first place. Proof that caffeine + teamwork = magic.
 
 > _More hackathons to come… stay tuned!_
 
@@ -60,6 +68,10 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 </div>
 
 <br>
@@ -71,6 +83,27 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="30" alt="pandas logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30" alt="scikit-learn logo"  />
+</div>
+
+<br>
+
+### Security
+<div align="left">
+  <img src="https://img.shields.io/badge/Wazuh-3595F6?style=for-the-badge" height="30" alt="wazuh logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge" height="30" alt="sysmon logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/AFL++-333333?style=for-the-badge" height="30" alt="afl++ logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge" height="30" alt="trivy logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="30" alt="wireshark logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white&style=for-the-badge" height="30" alt="metasploit logo"  />
 </div>
 
 <br>
@@ -92,6 +125,12 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
@@ -103,6 +142,9 @@ Tech puzzles are my thing, from teaching machines new tricks and untangling netw
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFB94B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 <br>
 
